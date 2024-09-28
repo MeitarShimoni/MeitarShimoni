@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MeitarShimoni
 - 👀 I’m interested in Electronics Engineering
 - 🌱 I’m currently learning Electrical & Electronics Engineering 
-- 💞️ I’m looking to collaborate on MATLAB
+- 💞️ I’m looking to collaborate on MATLAB, C++, and VHDL.
 - 📫 How to reach me Email: meitar1997s@gmail.com
 
 <!---
