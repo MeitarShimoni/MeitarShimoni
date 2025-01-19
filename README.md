@@ -10,11 +10,11 @@ I’m an enthusiastic engineering student with hands-on experience in digital lo
 
 ## 🛠️ Skills
 
-Programming: C++
-Digital Logic Design: Designing and simulating circuits using NI Multisim
-Circuit Simulation: PSPICE
+Programming: VHDL RTL Coding, C++, Python, Java OOP.
+Digital Logic Design: Xilinx Vivado
+Circuit Simulation: PSPICE, NI Multisim
 Signal Processing: Knowledge and practical experience from coursework and projects
-Testing & Hardware Platforms: Oscilloscopes, Arduino, ESP32
+Testing & Hardware Platforms: Oscilloscopes, Arduino, ESP32, PYNQ Z2
 Soft Skills: Teamwork, adaptability, and a strong desire for continuous learning and self-improvement
 
 ## 🚀 What I’m Working On
