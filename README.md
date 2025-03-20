@@ -6,6 +6,6 @@
 
 
 ## Projects You’ll Find Here
-1. Real-Time Video Processing on FPGA
+1. Real-Time Video Processing on FPGA (currently unpublished)
 2. EEG Real-Time Epilepsy Seizure Detection
 3. Digital Control System for Ninja DC Motor
