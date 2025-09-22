@@ -1,6 +1,7 @@
 # Hi there! 👋 I’m Meitar Shimoni
 
 I’m an Electronics Engineering graduate,
+
 Recently, I have Started A comprehensive course in Chip Design & Verification at Google & Reichman Tech School,
 
 I Enjoy Designing Digital Logic, debugging, and being challenged.
