@@ -6,7 +6,7 @@ Recently, I have started a comprehensive course in **Chip Design & Verification*
 
 I Enjoy Designing Digital Logic, debugging, and being challenged.
 
-![Demo](Arduino-Mecanum-Rover/images/ChipGif.gif)
+![Demo]([Arduino-Mecanum-Rover/images/ChipGif.gif](https://github.com/MeitarShimoni/Arduino-Mecanum-Rover/blob/main/images/ChipGif.gif))
 
 
 
