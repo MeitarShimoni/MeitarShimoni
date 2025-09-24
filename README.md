@@ -6,6 +6,10 @@ Recently, I have started a comprehensive course in **Chip Design & Verification*
 
 I Enjoy Designing Digital Logic, debugging, and being challenged.
 
+![Demo](images/ChipGif.gif)
+
+
+
 
 ## Projects You’ll Find Here 🚀 
 1. Real-Time Video Processing on FPGA
