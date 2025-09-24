@@ -5,13 +5,10 @@ recently started a comprehensive course in **Chip Design & Verification** at **G
 
 I enjoy designing **digital logic**, debugging, and taking on new challenges.
 
----
-
 <p align="center">
   <img src="https://github.com/MeitarShimoni/Arduino-Mecanum-Rover/blob/main/images/ChipGif.gif" width="400">
 </p>
 
----
 
 ## 🚀 Projects You’ll Find Here
 1. Real-Time Video Processing on FPGA  
