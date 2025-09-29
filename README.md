@@ -13,6 +13,6 @@ I enjoy designing **digital logic**, debugging, and taking on new challenges.
 1. Real-Time Video Processing on FPGA  
 2. EEG Real-Time Epilepsy Seizure Detection  
 3. Digital Control System for Ninja DC Motor  
-4. Mecanum Rover (IR Controlled)  
+4. 8086-Assembly-Projects
 
 ---
