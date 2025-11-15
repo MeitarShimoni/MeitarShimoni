@@ -5,13 +5,8 @@ recently started a comprehensive course in **Chip Design & Verification** at **G
 I enjoy designing **digital logic**, debugging, and taking on new challenges.
 
 ```verilog
-module mem_slave(parameter
-ADDR_WIDTH =8, DATA_WIDTH =32)
-
-logic [ADDR_WIDTH-1:0] addr;
-logic [DATA_WIDTH-1:0] data;
-logic req, gnt;
-
+module Meitar_Shimoni(input system_clock, input rst_n, input clock_enable, input requirments output logic_designs );
+//------------------------ My work is here! ------------------------
 endmodule
 
 
