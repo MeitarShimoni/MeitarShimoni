@@ -5,7 +5,12 @@ recently started a comprehensive course in **Chip Design & Verification** at **G
 I enjoy designing **digital logic**, debugging, and taking on new challenges.
 
 ```verilog
-module Meitar_Shimoni(input system_clock, input rst_n, input clock_enable, input requirments output logic_designs );
+module Meitar_Shimoni(
+      input system_clock,
+      input rst_n,
+      input clock_enable,
+      input requirments,
+      output logic_designs);
 //------------------------ My work is here! ------------------------
 endmodule
 
