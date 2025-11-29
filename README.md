@@ -2,7 +2,6 @@
 
 I’m an **Electrical & Electronics Engineer**,  
 recently started a comprehensive course in **Chip Design & Verification** at **Google & Reichman Tech School**.
-
 I enjoy designing **RTL and Digital Logic**, debugging, and taking on new challenges.
 
 <!-- <p align="center">
