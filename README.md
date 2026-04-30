@@ -9,4 +9,4 @@ I enjoy designing **RTL and Digital Logic**, debugging, and taking on new challe
 </p> -->
 ## 🚀 My Latest Work
 - Designing and verifying an APB Manager and RGF Slave, for register control.
-![alt text](images\stress_test.png)
+![alt text](images/stress_test.png)
