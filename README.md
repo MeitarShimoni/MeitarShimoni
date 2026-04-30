@@ -7,3 +7,6 @@ I enjoy designing **RTL and Digital Logic**, debugging, and taking on new challe
 <!-- <p align="center">
   <img src="https://github.com/MeitarShimoni/Arduino-Mecanum-Rover/blob/main/images/ChipGif.gif" width="400">
 </p> -->
+## 🚀 My Latest Work
+- Designing and verifying an APB Manager and RGF Slave, for register control.
+- 
