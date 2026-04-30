@@ -9,10 +9,10 @@ I enjoy designing **RTL and Digital Logic**, debugging, and taking on new challe
 </p> -->
 ## 🚀 My Latest Work
 
-- Designing and verifying an APB Manager and RGF Slave, for register control.
-![alt text](images/stress_test.png)
+- Designed and verified an **APB Master and RGF Slave** for register-level control.
+![APB Verification](images/stress_test.png)
 
-- Designing and verifying an AHB Manager for a sdata stream using AHB-Lite.
-![alt text](images/ahb_test.png)
+- Designed and verified an **AHB-Lite Master (DMA-style)** for data streaming and memory access.
+![AHB Verification](images/ahb_test.png)
 
 
