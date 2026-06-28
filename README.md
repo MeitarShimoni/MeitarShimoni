@@ -13,3 +13,8 @@ I enjoy designing **RTL and digital systems**, debugging complex issues, and con
 
 - Designed and verified an **AHB-Lite Master (DMA-style)** for data streaming and memory access.  
 ![AHB Verification](images/ahb_test.png)
+
+
+
+
+## PROJECTS:
