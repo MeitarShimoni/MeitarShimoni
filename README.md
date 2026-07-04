@@ -8,6 +8,8 @@ I enjoy designing **RTL and digital systems**, debugging complex issues, and con
 
 ## 🚀 My Latest Work
 
+- Full UVM Verification Environment Running for CPM DUT 
+![APB Verification](images/SmokeTest1.png)
 - Designed and verified an **APB Master and RGF Slave** for register-level control.  
 ![APB Verification](images/stress_test.png)
 
