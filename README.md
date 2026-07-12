@@ -30,3 +30,4 @@ I enjoy designing **RTL and digital systems**, debugging complex issues, and con
 - IMAGE PRE-PROCESSING and POST PROCESSING with ARM CORTEX Processor.
 - UART RGB IMAGE STREAMING PIPELINE.
 - IMAGE CONVOLUTION PROCESSING MODULE.
+- Ethernet RX/TX Module
