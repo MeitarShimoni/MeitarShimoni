@@ -7,7 +7,8 @@ I graduated from the **Chip Design & Verification Program** at **Google & Reichm
 I enjoy designing **RTL and digital systems**, debugging complex issues, and continuously learning new technologies.
 
 ## 🚀 My Latest Work
-![APB Verification](images/FPGA Signal Pipeline.gif)
+- Designing and verifying an HW Accelerator pipeline
+![FPGA](images/FPGA_Pipeline.gif)
 
 
 - Full UVM Verification Environment Running for CPM DUT 
