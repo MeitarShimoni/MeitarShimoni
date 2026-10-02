@@ -6,6 +6,21 @@ I graduated from the **Chip Design & Verification Program** at **Google & Reichm
 
 I enjoy designing **RTL and digital systems**, debugging complex issues, and continuously learning new technologies.
 
+## PROJECTS:
+
+### VERIFICATION ENVIRONMENTS:
+- CPM UVM VERIFICATION ENVIRONMENT.
+- UART UVM VERIFICATION ENVIRONMENT.
+
+
+### RTL/FPGA DESIGNS:
+- Audio Processing Pipeline on FPGA.
+- IMAGE PRE-PROCESSING and POST-PROCESSING with ARM CORTEX Processor.
+- UART RGB IMAGE STREAMING PIPELINE.
+- IMAGE CONVOLUTION PROCESSING MODULE.
+- Ethernet RX/TX Module
+
+
 ## 🚀 My Latest Work
 - Designing and verifying an HW Accelerator pipeline
 ![FPGA](images/FPGA_Pipeline.gif)
@@ -22,15 +37,3 @@ I enjoy designing **RTL and digital systems**, debugging complex issues, and con
 
 
 
-## PROJECTS:
-
-### VERIFICATION ENVIRONMENTS:
-- CPM UVM VERIFICATION ENVIRONMENT.
-- UART UVM VERIFICATION ENVIRONMENT.
-
-
-### RTL/FPGA DESIGNS:
-- IMAGE PRE-PROCESSING and POST PROCESSING with ARM CORTEX Processor.
-- UART RGB IMAGE STREAMING PIPELINE.
-- IMAGE CONVOLUTION PROCESSING MODULE.
-- Ethernet RX/TX Module
